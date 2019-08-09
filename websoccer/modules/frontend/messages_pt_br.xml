@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE messages SYSTEM "../messages.dtd">
+<messages>
+    <message id="home_navlabel">Início</message>
+    
+    <message id="errorpage_title">Erro</message>
+    
+    <message id="error_page_not_found">A página acessada não existe mais. Por favor, verifique o endereço.</message>
+    
+    <message id="error_double_submit">Você acabou de executar essa mesma ação. Por favor, tente novamente mais tarde.</message>
+    
+    <message id="validation_error_box_title">Entrada inválida</message>
+    <message id="validation_error_box_message">Por favor, corrija os campos marcados.</message>
+    <message id="validation_error_required">deve ser informado.</message>
+    <message id="validation_error_min_length">tem um tamanho mínimo de %d caracteres.</message>
+    <message id="validation_error_max_length">não pode ser maior do que %d caracteres.</message>
+    <message id="validation_error_not_a_number">deve ser um número.</message>
+    <message id="validation_error_email">não é um endereço de e-mail válido.</message>
+    <message id="validation_error_password">é muito insegura. Deve conter letras e números.</message>
+    <message id="validation_error_min_number">deve ter, pelo menos, %d caracteres.</message>
+    <message id="validation_error_max_number">não deve ser maior do que %d.</message>
+    
+    <message id="validation_error_not_a_url">deve ser uma URL válida (començando com http://...).</message>
+    <message id="validation_error_invaliddate">deve ser compatível com o padrão '%s'.</message>
+    
+    <message id="home_title">%s</message>
+  	<message id="home_teaser">Se torne o técnico de um time de futebol virtual, lidere seu time contra outros usuários e vença todos os campeonatos!</message>
+	  <message id="home_teaser_link_register">Cadastre-se Agora!!</message>
+	
+	  <message id="button_save">Salvar</message>
+	  <message id="button_cancel">Cancelar</message>
+	  <message id="button_reset">Reiniciar</message>
+	  <message id="button_more">Mais</message>
+	  <message id="button_refresh">Atualizar</message>
+	  <message id="button_display">Apresentar</message>
+	  <message id="button_submit">Enviar</message>
+	  <message id="button_close">Fechar</message>
+	  <message id="button_edit">Editar</message>
+	  <message id="button_choose">Escolher</message>
+	  <message id="button_confirm">Confirmar</message>
+	  <message id="button_delete">Excluir</message>
+	
+	  <message id="saved_message_title">Salvo com sucesso!</message>
+	
+	  <message id="imprint_navlabel">Imprimir</message>
+	  <message id="imprint_title">Imprimir</message>
+	
+	  <message id="results_block_title">Últimos Resultados</message>
+	
+	  <message id="unit_percent">Porcento</message>
+</messages>
